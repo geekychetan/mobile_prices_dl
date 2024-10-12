@@ -1,0 +1,17 @@
+name: ml_project_env  # Name of the environment
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.9
+  - keras
+  - keras-base
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - pip
+  - pip:
+      - tensorflow-macos
+      - tensorflow-metal

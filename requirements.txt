@@ -1,0 +1,7 @@
+tensorflow-macos
+tensorflow-metal
+keras
+numpy
+pandas
+scikit-learn
+seaborn
