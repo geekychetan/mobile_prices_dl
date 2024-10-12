@@ -1,0 +1,1 @@
+# Stores environment-related files for dependency management, such as conda or virtualenv environments.
